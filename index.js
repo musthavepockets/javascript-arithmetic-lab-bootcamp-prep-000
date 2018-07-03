@@ -26,7 +26,7 @@ function makeInt(n)  {  {
   return parseInt(n,10)
 }
 
-makeInt(a);
+makeInt('a');
 
 makeInt('0x2328');
 
