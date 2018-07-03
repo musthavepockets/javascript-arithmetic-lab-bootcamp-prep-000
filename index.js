@@ -22,13 +22,13 @@ function dec(a)  {
   return a -= 1
 }
 
-function makeInt(n)  {  
+function makeInt(n)  {
   return parseInt(n,10)
 }
 
-makeInt(a)
+makeInt(a);
 
-makeInt('0x2328')
+makeInt('0x2328');
 
 makeInt('sldkjflksjf')
 
