@@ -28,8 +28,7 @@ function makeInt(n)  {  {
 
 makeInt(a)
 
-function makeInt(a) {
-  return parseInt('sldkjflksjf', 10)
+function makeInt('sldkjflksjf')
 }
 }
 
