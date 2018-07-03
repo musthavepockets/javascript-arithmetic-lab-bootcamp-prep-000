@@ -28,6 +28,8 @@ function makeInt(n)  {
 
 makeInt(a)
 
+makeInt('0x2328')
+
 makeInt('sldkjflksjf')
 
 
