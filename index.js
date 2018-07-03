@@ -34,7 +34,7 @@ makeInt('sldkjflksjf')
 
 
 
-function preserveDecimal(n)  {  {
+function preserveDecimal(n)  {
   return parseFloat(n)
 }
 
