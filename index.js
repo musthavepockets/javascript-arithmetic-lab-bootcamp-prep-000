@@ -23,12 +23,10 @@ function dec(a)  {
 }
 
 function makeInt(n)  {  {
-  return parseInt(a, 10) === a
+  return parseInt(n)
 }
 
-function makeInt(n)  {
-  return parseInt('a', 10)
-}
+makeInt(a)
 
 function makeInt(a) {
   return parseInt('sldkjflksjf', 10)
