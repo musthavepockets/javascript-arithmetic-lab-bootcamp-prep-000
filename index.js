@@ -28,7 +28,7 @@ function makeInt(n)  {  {
 
 makeInt(a)
 
-function makeInt('sldkjflksjf')
+makeInt('sldkjflksjf')
 }
 }
 
