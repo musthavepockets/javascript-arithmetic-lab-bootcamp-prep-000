@@ -22,15 +22,15 @@ function dec(a)  {
   return a -= 1
 }
 
-function makeInt(n)  {  {
+function makeInt(n)  {  
   return parseInt(n,10)
 }
 
 makeInt(a)
 
 makeInt('sldkjflksjf')
-}
-}
+
+
 
 function preserveDecimal(n)  {  {
   return parseFloat('2.222')
