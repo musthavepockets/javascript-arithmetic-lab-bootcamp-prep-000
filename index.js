@@ -22,7 +22,7 @@ function dec(a)  {
   return a -= 1
 }
 
-function makeInt(n)  {
+function makeInt(n)  {  {
   return parseInt(n,10)
 }
 
@@ -31,13 +31,14 @@ makeInt(a);
 makeInt('0x2328');
 
 makeInt('sldkjflksjf')
+}
 
 
-
-function preserveDecimal(n)  {
+function preserveDecimal(n)  {  {
   return parseFloat(n)
 }
 
 preserveDecimal('2.222');
 
 preserveDecimal('sldkjflksjf')
+}
